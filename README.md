@@ -27,5 +27,5 @@ often than not
 * Expose via public API endpoint for fun and since I love APIs.
 
 #### Credits
-Thanks to Nick Brown(https://github.com/uptownnickbrown) for the started on his ePub extraction tool made
+Thanks to Nick Brown(https://github.com/uptownnickbrown) for the start on his ePub extraction tool made
 this a couple hour project vs days.
