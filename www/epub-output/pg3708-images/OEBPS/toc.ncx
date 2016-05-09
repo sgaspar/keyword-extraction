@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!DOCTYPE ncx PUBLIC '-//NISO//DTD ncx 2005-1//EN' 'http://www.daisy.org/z3986/2005/ncx-2005-1.dtd'>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="http://www.gutenberg.org/ebooks/3708" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="Ebookmaker 0.4.0a5 by Marcello Perathoner &lt;webmaster@gutenberg.org&gt;" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>An Introduction to Chemical Science</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="np-1" playOrder="1">
+      <navLabel>
+        <text>CONTENTS</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@3708@3708-0.txt.html#id00080"/>
+    </navPoint>
+    <navPoint id="np-2" playOrder="2">
+      <navLabel>
+        <text>PREFACE, BY R.P. WILLIAMS TABLE OF CONTENTS AN INTRODUCTION TO CHEMICAL SCIENCE APPENDIX TEXTBOOK ADVERTISEMENTS THAT APPEARED IN THE ORIGINAL EDITION INFO ABOUT THIS E-TEXT EDITION</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@3708@3708-0.txt.html#id00081"/>
+      <navPoint id="np-3" playOrder="3">
+        <navLabel>
+          <text>PREFACE, BY R.P. WILLIAMS</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@3708@3708-0.txt.html#id00082"/>
+      </navPoint>
+      <navPoint id="np-4" playOrder="4">
+        <navLabel>
+          <text>TABLE OF CONTENTS</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@3708@3708-0.txt.html#id00097"/>
+      </navPoint>
+      <navPoint id="np-5" playOrder="5">
+        <navLabel>
+          <text>CHAPTER I.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@3708@3708-0.txt.html#id00098"/>
+      </navPoint>
+      <navPoint id="np-6" playOrder="6">
+        <navLabel>
+          <text>AN INTRODUCTION TO CHEMICAL SCIENCE</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@3708@3708-0.txt.html#id00278"/>
+      </navPoint>
+      <navPoint id="np-7" playOrder="7">
+        <navLabel>
+          <text>CHAPTER I.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@3708@3708-0.txt.html#id00279"/>
+      </navPoint>
+      <navPoint id="np-8" playOrder="8">
+        <navLabel>
+          <text>TEXTBOOK ADVERTISEMENTS THAT APPEARED IN THE ORIGINAL EDITION</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@3708@3708-5.txt.html#id01423"/>
+      </navPoint>
+      <navPoint id="np-9" playOrder="9">
+        <navLabel>
+          <text>INTRODUCTION TO CHEMICAL SCIENCE</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@3708@3708-5.txt.html#id01424"/>
+        <navPoint id="np-10" playOrder="10">
+          <navLabel>
+            <text>CHEMICAL EXPERIMENTS</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@3708@3708-5.txt.html#id01439"/>
+        </navPoint>
+        <navPoint id="np-11" playOrder="11">
+          <navLabel>
+            <text>LABORATORY MANUAL OF GENERAL CHEMISTRY</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@3708@3708-5.txt.html#id01446"/>
+        </navPoint>
+        <navPoint id="np-12" playOrder="12">
+          <navLabel>
+            <text>AN ELEMENTARY CHEMISTRY</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@3708@3708-5.txt.html#id01449"/>
+        </navPoint>
+        <navPoint id="np-13" playOrder="13">
+          <navLabel>
+            <text>A STUDENTS' MANUAL OF A LABORATORY COURSE IN PHYSICAL MEASUREMENTS</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@3708@3708-5.txt.html#id01454"/>
+        </navPoint>
+        <navPoint id="np-14" playOrder="14">
+          <navLabel>
+            <text>HIGH SCHOOL LABORATORY MANUAL OF PHYSICS</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@3708@3708-5.txt.html#id01461"/>
+        </navPoint>
+        <navPoint id="np-15" playOrder="15">
+          <navLabel>
+            <text>YOUNG'S LESSONS IN ASTRONOMY</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@3708@3708-5.txt.html#id01467"/>
+        </navPoint>
+        <navPoint id="np-16" playOrder="16">
+          <navLabel>
+            <text>YOUNG'S ELEMENTS OF ASTRONOMY</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@3708@3708-5.txt.html#id01474"/>
+        </navPoint>
+        <navPoint id="np-17" playOrder="17">
+          <navLabel>
+            <text>YOUNG'S GENERAL ASTRONOMY</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@3708@3708-5.txt.html#id01496"/>
+        </navPoint>
+        <navPoint id="np-18" playOrder="18">
+          <navLabel>
+            <text>AN INTRODUCTION TO SPHERICAL AND PRACTICAL ASTRONOMY</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@3708@3708-5.txt.html#id01504"/>
+        </navPoint>
+        <navPoint id="np-19" playOrder="19">
+          <navLabel>
+            <text>SCHEINER'S ASTRONOMICAL SPECTROSCOPY</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@3708@3708-5.txt.html#id01512"/>
+        </navPoint>
+        <navPoint id="np-20" playOrder="20">
+          <navLabel>
+            <text>ELEMENTS OF PLANT ANATOMY</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@3708@3708-5.txt.html#id01517"/>
+        </navPoint>
+        <navPoint id="np-21" playOrder="21">
+          <navLabel>
+            <text>ELEMENTS OF STRUCTURAL AND SYSTEMATIC BOTANY</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@3708@3708-5.txt.html#id01520"/>
+        </navPoint>
+        <navPoint id="np-22" playOrder="22">
+          <navLabel>
+            <text>PLANT ORGANIZATION</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@3708@3708-5.txt.html#id01523"/>
+        </navPoint>
+        <navPoint id="np-23" playOrder="23">
+          <navLabel>
+            <text>ELEMENTARY METEOROLOGY</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@3708@3708-5.txt.html#id01525"/>
+        </navPoint>
+        <navPoint id="np-24" playOrder="24">
+          <navLabel>
+            <text>MOLECULES AND THE MOLECULAR THEORY OF MATTER</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@3708@3708-5.txt.html#id01538"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-25" playOrder="25">
+        <navLabel>
+          <text>END OF AN INTRODUCTION TO CHEMICAL SCIENCE</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@3708@3708-5.txt.html#id01541"/>
+      </navPoint>
+      <navPoint id="np-26" playOrder="26">
+        <navLabel>
+          <text>INFORMATION ABOUT THIS ELECTRONIC EDITION</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@3708@3708-5.txt.html#id01542"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

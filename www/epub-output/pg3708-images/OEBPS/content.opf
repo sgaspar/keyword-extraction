@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" unique-identifier="id" version="2.0">
+  <metadata>
+    <dc:rights>Public domain in the USA.</dc:rights>
+    <dc:identifier id="id" opf:scheme="URI">http://www.gutenberg.org/ebooks/3708</dc:identifier>
+    <dc:creator opf:file-as="Williams, Rufus P. (Rufus Phillips)">Rufus P. Williams</dc:creator>
+    <dc:title>An Introduction to Chemical Science</dc:title>
+    <dc:language xsi:type="dcterms:RFC4646">en</dc:language>
+    <dc:subject>Chemistry</dc:subject>
+    <dc:date opf:event="publication">2003-02-01</dc:date>
+    <dc:date opf:event="conversion">2016-03-02T10:17:52.174873+00:00</dc:date>
+    <dc:source>http://www.gutenberg.orgfiles/3708/3708.txt</dc:source>
+  </metadata>
+  <manifest>
+    <item id="item1" media-type="text/css" href="pgepub.css"/>
+    <!--Chunk: size=82454 Split on p-->
+    <item id="id00000" media-type="application/xhtml+xml" href="@public@vhost@g@gutenberg@html@files@3708@3708-0.txt.html"/>
+    <!--Chunk: size=82055 Split on p-->
+    <item id="id00386" media-type="application/xhtml+xml" href="@public@vhost@g@gutenberg@html@files@3708@3708-1.txt.html"/>
+    <!--Chunk: size=82167 Split on p-->
+    <item id="id00665" media-type="application/xhtml+xml" href="@public@vhost@g@gutenberg@html@files@3708@3708-2.txt.html"/>
+    <!--Chunk: size=82194 Split on p-->
+    <item id="id00924" media-type="application/xhtml+xml" href="@public@vhost@g@gutenberg@html@files@3708@3708-3.txt.html"/>
+    <!--Chunk: size=82355 Split on p-->
+    <item id="id01155" media-type="application/xhtml+xml" href="@public@vhost@g@gutenberg@html@files@3708@3708-4.txt.html"/>
+    <!--Chunk: size=45634-->
+    <item id="id01358" media-type="application/xhtml+xml" href="@public@vhost@g@gutenberg@html@files@3708@3708-5.txt.html"/>
+    <item id="ncx" media-type="application/x-dtbncx+xml" href="toc.ncx"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="id00000" linear="yes"/>
+    <itemref idref="id00386" linear="yes"/>
+    <itemref idref="id00665" linear="yes"/>
+    <itemref idref="id00924" linear="yes"/>
+    <itemref idref="id01155" linear="yes"/>
+    <itemref idref="id01358" linear="yes"/>
+  </spine>
+  <guide>
+    <reference title="CONTENTS" type="toc" href="@public@vhost@g@gutenberg@html@files@3708@3708-0.txt.html#id00080"/>
+  </guide>
+</package>
